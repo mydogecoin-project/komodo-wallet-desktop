@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - nogeo
-  workflow_dispatch:
 env:
   DEX_API: "kdf_kwd"
   DEX_RPCPORT: 7762
